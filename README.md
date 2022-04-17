@@ -5,7 +5,7 @@
 Requisitos previos 
 - Tener instalado nodeJs , la explicacion esta en la parte del Frontend de este proyecto
 - Tener instalado Visual Studio Code, la explicacion esta en la parte del Frontend de este proyecto
-
+- Tener Instalado Mysql Worbeanch, Junto con Xampp
 
 - Instalacion
 Comando para instalar el framework:  npm install express --save
@@ -15,5 +15,6 @@ Comando para instalar el framework:  npm install express --save
 
 # Despliege del proyecto
 - Bajar el repositorio del proyecto
+- Ejecutar lo que hay en la carpeta de BASES DATOS con Mysql para obtener la base de datos (Mysql Worbeanch)
 - Escribir el comando:  npm install ,para descargar los paquetes que se usan en el proyecto 
 - En la terminal del visual estudio code con el proyecto abierto,usar el comando para desplegar el proyecto:  node app.js
