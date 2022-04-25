@@ -16,5 +16,6 @@ Comando para instalar el framework:  npm install express --save
 # Despliege del proyecto
 - Bajar el repositorio del proyecto
 - Ejecutar lo que hay en la carpeta de BASES DATOS con Mysql para obtener la base de datos (Mysql Worbeanch)
+- El archivo dentro de la carpeta de Bases de datos debe ser ejecutado en MYSQL Woebeanch para asi tener la base de datos en local
 - Escribir el comando:  npm install ,para descargar los paquetes que se usan en el proyecto 
-- En la terminal del visual estudio code con el proyecto abierto,usar el comando para desplegar el proyecto:  node app.js
+- En la terminal del visual estudio code con el proyecto abierto,usar el comando para desplegar el proyecto:  node index.js
